@@ -22,12 +22,7 @@ A lightweight DCGAN implementation on images of dogs in grayscale. With the mode
 
 And just in case you didn't want to sleep tonight.
 
-
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e302_9.png)
-
-
-## Models
-To use either of the models, use the torch.load() function.
 
 ## Acknowledgments
 Here are some links to papers, articles, and tutorials that assisted me in creating this project.
