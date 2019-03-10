@@ -11,7 +11,11 @@ A lightweight DCGAN implementation on images of dogs in grayscale. With the mode
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e325_8.png)
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e325_7.png)
 
+
+
 And just in case you didn't want to sleep tonight.
+
+
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e302_9.png)
 
 
