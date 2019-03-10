@@ -7,9 +7,16 @@ A lightweight DCGAN implementation on images of dogs in grayscale. With the mode
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e361_3.png)
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e361_1.png)
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e353_2.png)
-![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e353_2.png)
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e325_8.png)
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e325_7.png)
+![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e281_8.png)
+![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e281_5.png)
+![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e281_0.png)
+![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e272_5.png)
+![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e271_8.png)
+![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e271_6.png)
+![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e271_1.png)
+![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e247_6.png)
 
 
 
