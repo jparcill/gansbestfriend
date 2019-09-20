@@ -1,6 +1,8 @@
 # gansbestfriend
 
-A lightweight DCGAN implementation on images of dogs in grayscale. With the model, we are able to generate realistic pictures of man's best friend.
+A lightweight DCGAN implementation on images of dogs in grayscale. With the model, we are able to generate realistic pictures of man's best friend. If GitHub doesn't render dcgan.ipynb please view the notebook here: 
+
+https://nbviewer.jupyter.org/github/jparcill/gansbestfriend/blob/master/dcgan.ipynb
 
 ## Generated Images
 ![alt text](https://raw.githubusercontent.com/jparcill/gansbestfriend/master/generated_images/e499_7.png)
